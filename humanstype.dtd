@@ -1,0 +1,7 @@
+
+<!ELEMENT humans (human+)>
+<!ELEMENT human (name, salary)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT salary (#PCDATA)>
+<!ATTLIST human hid ID #REQUIRED>
+<!ATTLIST human lang (Java|C|Python) "Java">

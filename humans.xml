@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE humans SYSTEM "humanstype.dtd">
+<humans>
+	<human hid='A1' lang="Java">  <!-- "lang" means Programming Language -->
+		<name>Raja</name>
+		<salary>4000</salary>
+	</human>
+	<human hid='A2' lang="Python">
+		<name>Logesh</name>
+		<salary>3000</salary>
+	</human>
+</humans>

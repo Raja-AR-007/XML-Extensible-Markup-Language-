@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:globalhumans xmlns:tns="http://www.example.org/humansSchema" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.example.org/humansSchema humansSchema.xsd ">
+  <tns:human hid="A1">
+    <tns:name>Raja</tns:name>
+    <tns:salary>30000</tns:salary>
+  </tns:human>
+  <tns:human hid="A2">
+    <tns:name>David</tns:name>
+    <tns:salary>2000</tns:salary>
+  </tns:human>
+  <tns:human hid="A3">
+    <tns:name>Tom</tns:name>
+    <tns:salary>4000</tns:salary>
+  </tns:human>
+  <tns:human hid="A4">
+    <tns:name>Sam</tns:name>
+    <tns:salary>6000</tns:salary>
+  </tns:human>
+</tns:globalhumans>
